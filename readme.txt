@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: ev3rywh3re
+Contributors: mrahmadawais
 Donate link:
-Tags: adopt-me, TinyMCE, editor, wysiwyg, formatting, admin
+Tags: TinyMCE, editor, wysiwyg, formatting, admin
 Requires at least: 4.2
-Tested up to: 4.5
+Tested up to: 4.7
 Stable tag: 2.5.3
 License: GPLv2 or later
 
@@ -11,11 +11,10 @@ Get control of the WordPress wysiwyg visual editor and add some functionality wi
 
 == Description ==
 
-= Adopt Me! =
+= Major Update Due Soon! =
 
-**This plugin is available for adoption.**
+**This plugin is getting a major update soon.**
 
->I just don't have time anymore and the users deserver better. I'd personally recommend [TinyMCE Advanced](https://wordpress.org/plugins/tinymce-advanced/) as a multi-site compatible replacement. If you'd like to continue development and chase this fluffy dark evil rabbit, feel free to contact me on Twitter [@ev3rywh3re](https://twitter.com/ev3rywh3re)
 
 ---
 
