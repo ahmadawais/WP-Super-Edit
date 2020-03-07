@@ -1,10 +1,10 @@
 === Plugin Name ===
-Contributors: mrahmadawais
-Donate link:
+Contributors: mrahmadawais, maedahbatool
+Donate link: https://AhmadAwais.com/
 Tags: TinyMCE, editor, wysiwyg, formatting, admin
 Requires at least: 4.2
-Tested up to: 4.7
-Stable tag: 2.5.3
+Tested up to: 5.4.0
+Stable tag: 2.5.4
 License: GPLv2 or later
 
 Get control of the WordPress wysiwyg visual editor and add some functionality with more buttons and custom TinyMCE plugins.
@@ -25,16 +25,16 @@ Your feedback is always welcome!
 **Features**
 
 * Drag and Drop interface for arranging the WordPress visual editor buttons.
-* Access to built-in WordPress visual editor buttons and functions. 
+* Access to built-in WordPress visual editor buttons and functions.
 * Additional TinyMCE plugins to add buttons and features like tables, layers (div tag), advanced XHTML properties, advanced image and link properties, WordPress emoticons, style attributes, css classes for themes, search / replace, and more.
 * Options for allowing users to configure visual editor settings; One editor setting for all users, role based editor settings, and individual user editor settings. **Only WordPress administrators can activate or deactivate TinyMCE wysiwyg visual editor plugins. In single or role based modes, only administrators can arrange editor buttons.**
-* Easy to install and remove. WP Super Edit uses separate database tables for settings and to support multi-site configurations. Currently only the **Super Emoticon / Icon Plugin** will leave short tags in your posts or pages. 
+* Easy to install and remove. WP Super Edit uses separate database tables for settings and to support multi-site configurations. Currently only the **Super Emoticon / Icon Plugin** will leave short tags in your posts or pages.
 
 **Version Notice**
 
 This version has been tested for use with the versions of WordPress indicated. I attempt to keep WP Super Edit up to date with changes to WordPress and the visual editor, but the complex changes can make it unproductive to maintain compatiblity with some older versions of WordPress. This is a list of recent versions available for older WordPress sites.
 
-* Use WP Super Edit 2.1 for WordPress 2.6 to 2.7.1 
+* Use WP Super Edit 2.1 for WordPress 2.6 to 2.7.1
 * Use WP Super Edit 2.3.x for WordPress 2.8 to 3.1.x
 * Use WP Super Edit 2.4.x for WordPress 3.1 to 3.8.x
 
@@ -42,7 +42,7 @@ This version has been tested for use with the versions of WordPress indicated. I
 
 == Installation ==
 
-1. Take the whole **wp-super-edit** folder and put it in the **WordPress Plugin** directory for your Web site. 
+1. Take the whole **wp-super-edit** folder and put it in the **WordPress Plugin** directory for your Web site.
 2. Activate the plugin on the Wordpress Plugins administration panel
 3. Click on the Settings option and you will see WP Super Edit in the sub menu.
 4. WP Super Edit should lead you through the final installation steps. **Please be patient!** WP Super Edit will attempt to scan and save your original wysiwyg visual editor settings while installing. WP Super Edit will not work until the installation has been completed!
@@ -79,7 +79,7 @@ This version has been tested for use with the versions of WordPress indicated. I
 
 = 2.4.3 =
 * Using Andrew Ozz's method for loading language files inline. Fixes some issues with multisite and various js restrictions.
-* Introduce buttons and support for Distraction Free Writing. 
+* Introduce buttons and support for Distraction Free Writing.
 * Minor bug fixes to eliminate warnings
 
 = 2.4.2 =
@@ -106,7 +106,7 @@ This version has been tested for use with the versions of WordPress indicated. I
 = 2.3 =
 * WordPress 3.0.1 support (beta multi-site support)
 * Removing callback functionality, so additional TinyMCE external plugins can be added by building independent WordPress plugins.
-* uninstall.php to do the right thing when you delete this crap. 
+* uninstall.php to do the right thing when you delete this crap.
 * Moved Super-CSS-Classes and Super-Emoticons to separate plugins in this package.
 * A hopefully a better method of setting up default TinyMCE settings.
 
